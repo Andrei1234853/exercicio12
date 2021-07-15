@@ -25,7 +25,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Tela de login"),
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blue,
       ),
       body: Container(
         width: double.infinity,
